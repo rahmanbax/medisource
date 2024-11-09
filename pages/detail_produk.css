@@ -1,0 +1,113 @@
+@import url("https://fonts.cdnfonts.com/css/satoshi");
+
+* {
+  list-style-type: none;
+  text-decoration: none;
+  font-family: "Satoshi", sans-serif;
+  margin: 0;
+}
+
+html {
+  background-color: #f3f3f3;
+}
+
+.cari_produk {
+  padding: 12px;
+  border-radius: 8px;
+  border: 2px solid lightgray;
+  outline: none;
+  background-color: #ffffff;
+  width: 280px;
+}
+
+a {
+  color: black;
+}
+
+li a:hover {
+  color: #527323;
+}
+
+.list {
+  display: flex;
+  gap: 40px;
+  font-weight: 500;
+}
+
+.cari_list {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  width: fit-content;
+  gap: 12px;
+}
+
+.logo {
+  height: 60px;
+}
+
+.navigasi {
+  display: flex;
+  justify-content: space-between;
+  width: 1136px;
+  align-items: center;
+  margin: auto;
+}
+
+header {
+  background-color: white;
+  padding: 16px 0px;
+}
+
+/* BATAS */
+
+.detail_produk {
+  width: 1136px;
+  margin: 32px auto;
+}
+
+.detail_produk h1 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.container {
+  margin-top: 32px;
+  display: grid;
+  grid-template-columns: 368px 752px;
+  gap: 16px;
+}
+
+.container img {
+  height: 368px;
+}
+
+.judul {
+  padding: 16px;
+  background-color: white;
+}
+
+.judul h1 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.deskripsi {
+  margin-top: 16px;
+  padding: 16px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.bagian {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.bagian h3 {
+  font-size: 14px;
+  color: #909090;
+}

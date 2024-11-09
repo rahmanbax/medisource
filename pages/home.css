@@ -1,0 +1,143 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+* {
+  list-style-type: none;
+  text-decoration: none;
+  font-family: 'Satoshi', sans-serif;
+    margin: 0;                
+}
+
+html {
+    background-color: #f3f3f3;
+}
+
+.cari_produk {
+  padding: 12px;
+  border-radius: 8px;
+  border: 2px solid lightgray;
+  outline: none; 
+  background-color: #ffffff;
+  width: 280px;
+}
+
+li a {
+  color: black;
+}
+
+li a:hover {
+    color: #527323;
+  }
+
+.list {
+    display: flex;
+    gap: 40px;
+    font-weight: 500;
+}
+
+.cari_list {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: fit-content;
+    gap: 12px;
+}
+
+.logo {
+    height: 60px;
+    
+}
+
+.navigasi {
+    display: flex;
+    justify-content: space-between;
+    width: 1136px;
+    align-items: center;
+    margin: auto;
+}
+
+header {
+    background-color: white;
+    padding: 16px 0px;
+}
+
+/* BATAS */
+
+.valuechain img {
+    width: 368px;
+    height: 240px;
+}
+
+.valuechain p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #527323;
+    margin-top: 16px;
+}
+
+.valuechain h3 {
+    font-size: 20px;
+    margin-top: 8px;
+}
+
+.service {
+    width: 1136px;
+    display: grid;
+    gap: 32px 16px;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 32px auto;
+}
+
+.offer {
+    width: 1136px;
+    margin: 64px auto;
+
+}
+
+.offer_cards {
+    margin-top: 32px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    width: 1136px;
+}
+
+.card img {
+    height: 64px;
+    width: 88px;
+    transition: transform .5s ease;
+}
+
+
+.card {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: auto;
+    height: fit-content;
+    background-color: white;
+    padding: 32px 16px;
+}
+
+.card h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #527323;
+}
+
+.offer h2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #527323;
+}
+
+.offer h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 4px;
+}
+
+.offer p {
+    margin-top: 8px;
+    color: #909090;
+}
