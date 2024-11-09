@@ -22,6 +22,10 @@ fetch("../products.json")
                         <p>${product.netto}</p>
                     </div>
                     <div class="bagian">
+                        <h3>Kandungan Sediaan</h3>
+                        <p>${product.kandungan_sediaan}</p>
+                    </div>
+                    <div class="bagian">
                         <h3>Deskripsi Produk</h3>
                         <p>${product.deskripsi}.</p>
                     </div>
