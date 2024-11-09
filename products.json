@@ -4,349 +4,399 @@
     "name": "Paramed (Paracetamol Syrup)",
     "image": "../assets/products/1.png",
     "netto": "60 mL",
-    "deskripsi": "Paracetamol syrup digunakan untuk menurunkan panas serta meredakan nyeri ringan."
+    "deskripsi": "Paracetamol syrup digunakan untuk menurunkan panas serta meredakan nyeri ringan.",
+    "kandungan_sediaan": "Paracetamol 120 mg / 5 mL"
   },
   {
     "id": 2,
     "name": "Mefen (Ibuprofen suspensi)",
     "image": "../assets/products/2.png",
     "netto": "60 mL",
-    "deskripsi": "Ibuprofen digunakan untuk mengobati sakit kepala, sakit gigi, nyeri otot, rasa sakit pada saat haid, dan peradangan lainnya."
+    "deskripsi": "Ibuprofen digunakan untuk mengobati sakit kepala, sakit gigi, nyeri otot, rasa sakit pada saat haid, dan peradangan lainnya.",
+    "kandungan_sediaan": "Ibuprofen Suspensi 100 mg / 5 mL"
   },
   {
     "id": 3,
     "name": "Antasida Doen",
     "image": "../assets/products/3.png",
     "netto": "60 mL",
-    "deskripsi": "Antasida Doen digunakan untuk meredakan asam lambung (GERD) ataupun maag."
+    "deskripsi": "Antasida Doen digunakan untuk meredakan asam lambung (GERD) ataupun maag.",
+    "kandungan_sediaan": "Aluminium Hidroksida dan Magnesium Hidroksida"
   },
   {
     "id": 4,
     "name": "Salbutamol Guaifenesin",
     "image": "../assets/products/4.png",
     "netto": "60 mL",
-    "deskripsi": "Berguna untuk meredakan gejala asma dan gangguan pernapasan lainnya seperti bronchitis dan chronic obstructive pulmonary disease."
+    "deskripsi": "Berguna untuk meredakan gejala asma dan gangguan pernapasan lainnya seperti bronchitis dan chronic obstructive pulmonary disease.",
+    "kandungan_sediaan": "Salbutamol dan Guaifenesin"
   },
   {
     "id": 5,
     "name": "Cougse Batuk Kering dan Pilek",
     "image": "../assets/products/5.png",
     "netto": "60 mL",
-    "deskripsi": "Berguna untuk mengatasi batuk yang disertai pilek atau hidung tersumbat."
+    "deskripsi": "Berguna untuk mengatasi batuk yang disertai pilek atau hidung tersumbat.",
+    "kandungan_sediaan": "Triprolidine HCl, Pseudoephedrine HCl, dan Dextromethorphan HBr"
   },
   {
     "id": 6,
     "name": "Paramed (Paracetamol Tablet)",
     "image": "../assets/products/6.png",
     "netto": "10 tablet x 10 blister",
-    "deskripsi": "Paracetamol digunakan untuk menurunkan panas serta meredakan nyeri ringan."
+    "deskripsi": "Paracetamol digunakan untuk menurunkan panas serta meredakan nyeri ringan.",
+    "kandungan_sediaan": "Paracetamol 500 mg"
   },
   {
     "id": 7,
     "name": "Metforce (Metformin HCl)",
     "image": "../assets/products/7.png",
     "netto": "20 strip x 10 tablet",
-    "deskripsi": "Digunakan untuk mengontrol dan menurunkan kadar gula darah pada pasien penderita diabetes tipe 2."
+    "deskripsi": "Digunakan untuk mengontrol dan menurunkan kadar gula darah pada pasien penderita diabetes tipe 2.",
+    "kandungan_sediaan": "Metformin HCI 500 mg"
   },
   {
     "id": 8,
     "name": "Mefecid (Asam Mefenamat)",
     "image": "../assets/products/8.png",
     "netto": "10 tablet x 10 blister",
-    "deskripsi": "Digunakan untuk mengobati nyeri ringan hingga sedang."
+    "deskripsi": "Digunakan untuk mengobati nyeri ringan hingga sedang.",
+    "kandungan_sediaan": "Asam Mefenamat 500 mg"
   },
   {
     "id": 9,
     "name": "Cetmed (Cetirizine HCl)",
     "image": "../assets/products/9.png",
     "netto": "10 strip x 10 tablet",
-    "deskripsi": "Dapat digunakan untuk meredakan reaksi alergi, seperti mata berair, bersin-bersin, ataupun gatal di kulit."
+    "deskripsi": "Dapat digunakan untuk meredakan reaksi alergi, seperti mata berair, bersin-bersin, ataupun gatal di kulit.",
+    "kandungan_sediaan": "Cetirizine HCI 10 mg"
   },
   {
     "id": 10,
     "name": "Proce (Ibuprofen)",
     "image": "../assets/products/10.png",
     "netto": "10 strip x 10 tablet",
-    "deskripsi": "Ibuprofen digunakan untuk mengobati sakit kepala, sakit gigi, nyeri otot, rasa sakit pada saat haid, dan peradangan lainnya."
+    "deskripsi": "Ibuprofen digunakan untuk mengobati sakit kepala, sakit gigi, nyeri otot, rasa sakit pada saat haid, dan peradangan lainnya.",
+    "kandungan_sediaan": "Ibuprofen 400 mg"
   },
   {
     "id": 11,
     "name": "Antasida Doen (Tablet)",
     "image": "../assets/products/11.png",
     "netto": "10 strip x 10 tablet",
-    "deskripsi": "Antasida Doen digunakan untuk meredakan asam lambung (GERD) ataupun maag."
+    "deskripsi": "Antasida Doen digunakan untuk meredakan asam lambung (GERD) ataupun maag.",
+    "kandungan_sediaan": "Aluminium Hidroksida dan Magnesium Hidroksida"
   },
   {
     "id": 12,
     "name": "Dexamed (Dexamethasone)",
     "image": "../assets/products/12.png",
     "netto": "10 strip x 10 tablet",
-    "deskripsi": "Obat golongan kortikosteroid yang bekerja dengan cara menurunkan peradangan dan mengurangi reaksi alergi."
+    "deskripsi": "Obat golongan kortikosteroid yang bekerja dengan cara menurunkan peradangan dan mengurangi reaksi alergi.",
+    "kandungan_sediaan": "Dexamethasone 0,5 mg"
   },
   {
     "id": 13,
     "name": "Omepramed (Omeprazole)",
     "image": "../assets/products/13.png",
     "netto": "10 strip x 10 tablet",
-    "deskripsi": "Obat untuk menurunkan asam lambung dengan cara menghambat pompa proton."
+    "deskripsi": "Obat untuk menurunkan asam lambung dengan cara menghambat pompa proton.",
+    "kandungan_sediaan": "Omeprazole 20 mg"
   },
   {
     "id": 14,
     "name": "Glimed (Glimepiride)",
     "image": "../assets/products/14.png",
     "netto": "10 strip x 10 tablet",
-    "deskripsi": "Obat diabetes yang menurunkan kadar gula darah dengan cara mendorong produksi insulin."
+    "deskripsi": "Obat diabetes yang menurunkan kadar gula darah dengan cara mendorong produksi insulin.",
+    "kandungan_sediaan": "Glimepiride 2 mg"
   },
   {
     "id": 15,
     "name": "Infus NaCl 0,9% 500 mL",
     "image": "../assets/products/15.png",
     "netto": "500 mL",
-    "deskripsi": "Cairan NaCl 0,9% digunakan secara intravena untuk resusitasi cairan."
+    "deskripsi": "Cairan NaCl 0,9% digunakan secara intravena untuk resusitasi cairan.",
+    "kandungan_sediaan": "Sodium chloride 0,9%"
   },
   {
     "id": 16,
     "name": "Infus NaCl 0,9% 100 mL",
     "image": "../assets/products/16.png",
     "netto": "100 mL",
-    "deskripsi": "Cairan NaCl 0,9% digunakan secara intravena untuk resusitasi cairan."
+    "deskripsi": "Cairan NaCl 0,9% digunakan secara intravena untuk resusitasi cairan.",
+    "kandungan_sediaan": "Sodium chloride 0,9%"
   },
   {
     "id": 17,
     "name": "Infus Dextrose 10%",
     "image": "../assets/products/17.png",
     "netto": "500 mL",
-    "deskripsi": "Cairan infus yang berguna untuk mengatasi hipoglikemia."
+    "deskripsi": "Cairan infus yang berguna untuk mengatasi hipoglikemia.",
+    "kandungan_sediaan": "Dextrose monohydrate 50 gr/500 mL"
   },
   {
     "id": 18,
     "name": "Infus Dextrose 5%",
     "image": "../assets/products/18.png",
     "netto": "500 mL",
-    "deskripsi": "Cairan infus yang berguna untuk mengatasi hipoglikemia."
+    "deskripsi": "Cairan infus yang berguna untuk mengatasi hipoglikemia.",
+    "kandungan_sediaan": "Dextrose monohydrate 25 gr/500 mL"
   },
   {
     "id": 19,
     "name": "Infus Ringer Laktat",
     "image": "../assets/products/19.png",
     "netto": "500 mL",
-    "deskripsi": "Digunakan sebagai sumber elektrolit dan air, biasanya pada pasien dehidrasi."
+    "deskripsi": "Digunakan sebagai sumber elektrolit dan air, biasanya pada pasien dehidrasi.",
+    "kandungan_sediaan": "Natrium laktat, Natrium klorida, Kalium klorida, Kaslium klorida"
   },
   {
     "id": 20,
     "name": "Gencisa (Gentamisin Salep)",
     "image": "../assets/products/20.png",
     "netto": "10 gram",
-    "deskripsi": "Digunakan untuk mengatasi infeksi kulit yang disebabkan oleh bakteri."
+    "deskripsi": "Digunakan untuk mengatasi infeksi kulit yang disebabkan oleh bakteri.",
+    "kandungan_sediaan": "Gentamisin 0,1%"
   },
   {
     "id": 21,
     "name": "Alletsone",
     "image": "../assets/products/21.png",
     "netto": "3,5 gram",
-    "deskripsi": "Digunakan untuk pengobatan penyakit mata yang disebabkan oleh radang disertai infeksi bakteri."
+    "deskripsi": "Digunakan untuk pengobatan penyakit mata yang disebabkan oleh radang disertai infeksi bakteri.",
+    "kandungan_sediaan": "Dexamethasone sodium phosphate, Neomycin sulphate, Polymixin B sulphate"
   },
   {
     "id": 22,
     "name": "Mefacetin",
     "image": "../assets/products/22.png",
     "netto": "15 gram",
-    "deskripsi": "Antibiotik untuk mengobati infeksi bakteri di berbagai bagian tubuh."
+    "deskripsi": "Antibiotik untuk mengobati infeksi bakteri di berbagai bagian tubuh.",
+    "kandungan_sediaan": "Chloramphenicol"
   },
   {
     "id": 23,
     "name": "Hidsom (Hidrokortison)",
     "image": "../assets/products/23.png",
     "netto": "5 gram",
-    "deskripsi": "Digunakan untuk mengobati eksim, inflamasi, dan gatal-gatal pada kulit."
+    "deskripsi": "Digunakan untuk mengobati eksim, inflamasi, dan gatal-gatal pada kulit.",
+    "kandungan_sediaan": "Hidrokortison 1%"
   },
   {
     "id": 24,
     "name": "Oxymed (Oxytetracyclin)",
     "image": "../assets/products/24.png",
     "netto": "3,5 gram",
-    "deskripsi": "Efektif dalam mengatasi infeksi akibat bakteri."
+    "deskripsi": "Efektif dalam mengatasi infeksi akibat bakteri.",
+    "kandungan_sediaan": "Oxytetracyclin 1%"
   },
   {
     "id": 25,
     "name": "Ketoce (Ketoconazole)",
     "image": "../assets/products/25.png",
     "netto": "10 gram",
-    "deskripsi": "Antijamur yang berguna untuk mengatasi infeksi akibat jamur."
+    "deskripsi": "Antijamur yang berguna untuk mengatasi infeksi akibat jamur.",
+    "kandungan_sediaan": "Ketoconazole 2%"
   },
   {
     "id": 26,
     "name": "Desouce (Desoximethasone)",
     "image": "../assets/products/26.png",
     "netto": "15 gram",
-    "deskripsi": "Obat digunakan untuk mengurangi ruam kulit yang disebabkan oleh kondisi seperti dermatitis kontak atau ruam alergi."
+    "deskripsi": "Obat digunakan untuk mengurangi ruam kulit yang disebabkan oleh kondisi seperti dermatitis kontak atau ruam alergi.",
+    "kandungan_sediaan": "Desoximethasone 0,25%"
   },
   {
     "id": 27,
     "name": "Neocin",
     "image": "../assets/products/27.png",
     "netto": "10 gram",
-    "deskripsi": "Obat digunakan untuk pengobatan penyakit kulit dan mukosa terutama disebabkan infeksi bakteri."
+    "deskripsi": "Obat digunakan untuk pengobatan penyakit kulit dan mukosa terutama disebabkan infeksi bakteri.",
+    "kandungan_sediaan": "Neomycin Sulfate, Bacitracin Zinc"
   },
   {
     "id": 28,
     "name": "Betamed",
     "image": "../assets/products/28.png",
     "netto": "5 gram",
-    "deskripsi": "Obat untuk meredakan gatal, kemerahan, atau pembengkakan pada kulit."
+    "deskripsi": "Obat untuk meredakan gatal, kemerahan, atau pembengkakan pada kulit.",
+    "kandungan_sediaan": "Betamethasone Valerate"
   },
   {
     "id": 29,
     "name": "Erythce (Erythromycin)",
     "image": "../assets/products/29.png",
     "netto": "10 gram",
-    "deskripsi": "Obat digunakan untuk jerawat, terutama lesi yang meradang disertai papula/papel & pustula."
+    "deskripsi": "Obat digunakan untuk jerawat, terutama lesi yang meradang disertai papula/papel & pustula.",
+    "kandungan_sediaan": "Erythromycin 2%"
   },
   {
     "id": 30,
     "name": "Hydrop (Hypromelosse)",
     "image": "../assets/products/30.png",
     "netto": "5 mL",
-    "deskripsi": "Obat tetes mata untuk mengatasi gejala mata kering, seperti perih atau gatal di mata."
+    "deskripsi": "Obat tetes mata untuk mengatasi gejala mata kering, seperti perih atau gatal di mata.",
+    "kandungan_sediaan": "Hypromelosse 0,3%"
   },
   {
     "id": 31,
     "name": "Floxy",
     "image": "../assets/products/31.png",
     "netto": "10 mL",
-    "deskripsi": "Obat semprot hidung membantu mengatasi penyumbatan hidung akibat rinitis akut."
+    "deskripsi": "Obat semprot hidung membantu mengatasi penyumbatan hidung akibat rinitis akut.",
+    "kandungan_sediaan": "Oxymetazoline 0,05%"
   },
   {
     "id": 32,
     "name": "Klodrop",
     "image": "../assets/products/32.png",
     "netto": "30 mL",
-    "deskripsi": "Obat ini digunakan untuk melembabkan membran mukosa hidung yang kering dan meradang karena pilek, alergi, pendarahan hidung ringan."
+    "deskripsi": "Obat ini digunakan untuk melembabkan membran mukosa hidung yang kering dan meradang karena pilek, alergi, pendarahan hidung ringan.",
+    "kandungan_sediaan": "Natrium klorida"
   },
   {
     "id": 33,
     "name": "Prodop",
     "image": "../assets/products/33.png",
     "netto": "5 mL",
-    "deskripsi": "Obat ini digunakan untuk menyejukkan dan melumasi mata kering dan iritasi."
+    "deskripsi": "Obat ini digunakan untuk menyejukkan dan melumasi mata kering dan iritasi.",
+    "kandungan_sediaan": "Hydroxyl Propyl Methyl Cellulose"
   },
   {
     "id": 34,
     "name": "Dexeye",
     "image": "../assets/products/34.png",
     "netto": "8 mL",
-    "deskripsi": "Meredakan iritasi mata ringan akibat terpapar oleh angin, sinar, atau mata kering."
+    "deskripsi": "Meredakan iritasi mata ringan akibat terpapar oleh angin, sinar, atau mata kering.",
+    "kandungan_sediaan": "Dextran, Hydroxypropyl Methylcellulose"
   },
   {
     "id": 35,
     "name": "Clocetin",
     "image": "../assets/products/35.png",
     "netto": "5 mL",
-    "deskripsi": "Obat ini digunakan untuk mengobati infeksi pada telinga ataupun saluran telinga."
+    "deskripsi": "Obat ini digunakan untuk mengobati infeksi pada telinga ataupun saluran telinga.",
+    "kandungan_sediaan": "Chloramphenicol 1%"
   },
   {
     "id": 36,
     "name": "Earcin",
     "image": "../assets/products/36.png",
     "netto": "5 mL",
-    "deskripsi": "Obat tetes telinga yang mengandung antibiotik, sering kali berupa ciprofloxacin atau chloramphenicol."
+    "deskripsi": "Obat tetes telinga yang mengandung antibiotik, sering kali berupa ciprofloxacin atau chloramphenicol.",
+    "kandungan_sediaan": "Ofloxacin"
   },
   {
     "id": 37,
     "name": "Polipin",
     "image": "../assets/products/37.png",
     "netto": "8 mL",
-    "deskripsi": "Obat ini digunakan untuk mengatasi penyakit infeksi pada telinga dengan beberapa gejalanya berupa rasa nyeri, bengkak, gatal dan telinga berair."
+    "deskripsi": "Obat ini digunakan untuk mengatasi penyakit infeksi pada telinga dengan beberapa gejalanya berupa rasa nyeri, bengkak, gatal dan telinga berair.",
+    "kandungan_sediaan": "Polymyxin B sulfate, Neomycin sulfate, Fluodrocartisone acetate, Lidocaine HCL"
   },
   {
     "id": 38,
     "name": "Procid",
     "image": "../assets/products/38.png",
     "netto": "1 blister @ 5 ampul @ 5 mL",
-    "deskripsi": "Obat generik dari vitamin C."
+    "deskripsi": "Obat generik dari vitamin C.",
+    "kandungan_sediaan": "Ascorbic Acid"
   },
   {
     "id": 39,
     "name": "Nesfa",
     "image": "../assets/products/39.png",
     "netto": "1 prefilled syringe x 0,5 mL + 1 sterile needle",
-    "deskripsi": "Obat ini digunakan untuk penderita anemia yang berhubungan dengan penyakit ginjal kronik pada pasien hemodialisis atau tanpa dialisis."
+    "deskripsi": "Obat ini digunakan untuk penderita anemia yang berhubungan dengan penyakit ginjal kronik pada pasien hemodialisis atau tanpa dialisis.",
+    "kandungan_sediaan": "Daebepoetin alfa"
   },
   {
     "id": 40,
     "name": "Fornic",
     "image": "../assets/products/40.png",
     "netto": "1 pre-filled syringe @ 3 mL + 1 jarum steril",
-    "deskripsi": "Obat ini digunakan untuk terapi osteoporosis pada wanita pascamenopause dengan peningkatan risiko fraktur."
+    "deskripsi": "Obat ini digunakan untuk terapi osteoporosis pada wanita pascamenopause dengan peningkatan risiko fraktur.",
+    "kandungan_sediaan": "Ibandronic Sodium monohydrate"
   },
   {
     "id": 41,
     "name": "Licein",
     "image": "../assets/products/41.png",
     "netto": "20 mg/mL",
-    "deskripsi": "Obat generik untuk menghilangkan rasa sakit atau memberi efek mati rasa pada bagian tertentu untuk sementara."
+    "deskripsi": "Obat generik untuk menghilangkan rasa sakit atau memberi efek mati rasa pada bagian tertentu untuk sementara.",
+    "kandungan_sediaan": "Lidocaine HCL monohydrate"
   },
   {
     "id": 42,
     "name": "Timed",
     "image": "../assets/products/42.png",
     "netto": "2 blister @ 5 ampul @ 2 mL",
-    "deskripsi": "Obat ini digunakan untuk pasien rawat inap di rumah sakit dengan keadaan hipersekresi patologis atau ulkus usus dua belas jari."
+    "deskripsi": "Obat ini digunakan untuk pasien rawat inap di rumah sakit dengan keadaan hipersekresi patologis atau ulkus usus dua belas jari.",
+    "kandungan_sediaan": "Ranitidin HCL"
   },
   {
     "id": 43,
     "name": "Medzole",
     "image": "../assets/products/43.png",
     "netto": "60 mL",
-    "deskripsi": "Obat ini digunakan untuk uretritis dan vaginitis, ambusiasis intestinal."
+    "deskripsi": "Obat ini digunakan untuk uretritis dan vaginitis, ambusiasis intestinal.",
+    "kandungan_sediaan": "Metronidazole suspensi"
   },
   {
     "id": 44,
     "name": "Amlin",
     "image": "../assets/products/44.png",
     "netto": "10 vial @ 1 g",
-    "deskripsi": "Obat ini digunakan untuk infeksi saluran pernapasan bagian atas dan bawah."
+    "deskripsi": "Obat ini digunakan untuk infeksi saluran pernapasan bagian atas dan bawah.",
+    "kandungan_sediaan": "Ampicillin Sodium"
   },
   {
     "id": 45,
     "name": "Mezole",
     "image": "../assets/products/45.png",
     "netto": "500 mg/mL",
-    "deskripsi": "Obat ini digunakan untuk menangani peradangan, nyeri, dan demam."
+    "deskripsi": "Obat ini digunakan untuk menangani peradangan, nyeri, dan demam.",
+    "kandungan_sediaan": "Metamizole sodium"
   },
   {
     "id": 46,
     "name": "Virtrat",
     "image": "../assets/products/46.png",
     "netto": "50 mg/5 mL",
-    "deskripsi": "Obat ini digunakan untuk orang dewasa dalam pengobatan paru-paru non-sel kecil (NSCLC) stadium lanjut."
+    "deskripsi": "Obat ini digunakan untuk orang dewasa dalam pengobatan paru-paru non-sel kecil (NSCLC) stadium lanjut.",
+    "kandungan_sediaan": "Vinorelbine Tartrate"
   },
   {
     "id": 47,
     "name": "Tremed",
     "image": "../assets/products/47.png",
     "netto": "100 mg/mL",
-    "deskripsi": "Obat ini digunakan untuk mendapatkan peningkatan cepat dan signifikan dalam kekuatan tetapi tidak menyebabkan peningkatan berat badan berlebihan."
+    "deskripsi": "Obat ini digunakan untuk mendapatkan peningkatan cepat dan signifikan dalam kekuatan tetapi tidak menyebabkan peningkatan berat badan berlebihan.",
+    "kandungan_sediaan": "Trenbolone acetate"
   },
   {
     "id": 48,
     "name": "Pezab",
     "image": "../assets/products/48.png",
     "netto": "25 mg/mL",
-    "deskripsi": "Obat jenis antibodi monoklonal yang digunakan untuk pengobatan berbagai jenis kanker."
+    "deskripsi": "Obat jenis antibodi monoklonal yang digunakan untuk pengobatan berbagai jenis kanker.",
+    "kandungan_sediaan": "Pembrolizumab"
   },
   {
     "id": 49,
     "name": "Phenolone",
     "image": "../assets/products/49.png",
     "netto": "One 10 mL Sterile vial",
-    "deskripsi": "Agen anabolik untuk penggunaan sistemik."
+    "deskripsi": "Agen anabolik untuk penggunaan sistemik.",
+    "kandungan_sediaan": "Nandrolone, Phenylpropionate Injection, USP"
   },
   {
     "id": 50,
     "name": "Sunyx",
     "image": "../assets/products/50.png",
     "netto": "10 mL Multiple Dose Vial",
-    "deskripsi": "Obat ini digunakan untuk terapi pada gangguan hipogonadal."
+    "deskripsi": "Obat ini digunakan untuk terapi pada gangguan hipogonadal.",
+    "kandungan_sediaan": "Sustanon"
   }
 ]
